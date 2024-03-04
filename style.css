@@ -208,7 +208,7 @@ body {
 
     .left::after {
         content: "";
-        background-image: url("Frame.png");
+        background-image: url("images/Frame.png");
         background-repeat: no-repeat;
         position: absolute;
         /* width: 100%; */
@@ -675,7 +675,7 @@ body {
     }
     .middleContent .left::after {
         content: "";
-        background-image: url(Frame.png);
+        background-image: url("images/Frame.png");
         background-repeat: no-repeat;
         position: absolute;
         top: 30px;
